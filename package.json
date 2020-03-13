@@ -1,0 +1,31 @@
+{
+  "name": "passport-cerbere",
+  "version": "0.0.1",
+  "description": "Cerbere Passport Strategy",
+  "main": "./lib",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTES-MCT/passport-cerbere.git"
+  },
+  "keywords": [
+    "passport",
+    "authentication",
+    "cerbere",
+    "cas",
+    "saml"
+  ],
+  "author": "Tristan Robert <tristan.robert@developpement-durable.gouv.fr>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MTES-MCT/passport-cerbere/issues"
+  },
+  "homepage": "https://github.com/MTES-MCT/passport-cerbere#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-uuid": "^1.4.8",
+    "passport-strategy": "^1.0.0"
+  }
+}
