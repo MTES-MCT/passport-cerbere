@@ -24,8 +24,9 @@
   },
   "homepage": "https://github.com/MTES-MCT/passport-cerbere#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "fast-xml-parser": "^3.16.0",
     "node-uuid": "^1.4.8",
     "passport-strategy": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
