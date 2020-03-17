@@ -4,6 +4,7 @@
 
 ![Build](https://github.com/MTES-MCT/passport-cerbere/workflows/Build/badge.svg)
 ![Publish](https://github.com/MTES-MCT/passport-cerbere/workflows/Publish/badge.svg?event=release)
+[![npm version](https://badge.fury.io/js/passport-cerbere.svg)](https://badge.fury.io/js/passport-cerbere)
 
 ## Installation
 
