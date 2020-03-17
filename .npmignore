@@ -1,0 +1,7 @@
+docs/
+examples/
+reports/
+test/
+.github/
+
+.jshintrc

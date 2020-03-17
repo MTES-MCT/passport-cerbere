@@ -4,7 +4,7 @@
   "description": "Cerbere Passport Strategy",
   "main": "./lib",
   "scripts": {
-    "test": "test"
+    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js test/**/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,10 @@
     "node-uuid": "^1.4.8",
     "passport-strategy": "^1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-passport-strategy": "^1.0.1",
+    "mocha": "^7.1.0",
+    "proxyquire": "^2.1.3"
+  }
 }
