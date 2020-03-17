@@ -2,7 +2,7 @@
 
 > [Passport](http://passportjs.org/) strategy utilisant le serveur d'authentification [Cerbere](https://authentification.din.developpement-durable.gouv.fr). Il supporte les protocoles CAS 2.0 et SAML 1.1.
 
-![Node.js CI](https://github.com/MTES-MCT/passport-cerbere/workflows/Node.js%20CI/badge.svg)
+![Build](https://github.com/MTES-MCT/passport-cerbere/workflows/Build/badge.svg)
 
 ## Installation
 
