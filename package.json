@@ -1,6 +1,6 @@
 {
   "name": "passport-cerbere",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cerbere Passport Strategy",
   "main": "./lib",
   "scripts": {
@@ -24,8 +24,7 @@
   },
   "homepage": "https://github.com/MTES-MCT/passport-cerbere#readme",
   "dependencies": {
-    "fast-xml-parser": "^3.16.0",
-    "node-uuid": "^1.4.8",
+    "cerbere": "^0.1.0",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
