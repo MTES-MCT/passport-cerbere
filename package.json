@@ -1,6 +1,6 @@
 {
   "name": "passport-cerbere",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Cerbere Passport Strategy",
   "main": "./lib",
   "scripts": {
@@ -31,7 +31,7 @@
     "chai": "^4.2.0",
     "chai-passport-strategy": "^1.0.1",
     "minimist": "^1.2.5",
-    "mocha": "^7.1.0",
+    "mocha": "^7.1.1",
     "proxyquire": "^2.1.3"
   }
 }
