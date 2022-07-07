@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/MTES-MCT/passport-cerbere#readme",
   "dependencies": {
-    "cerbere": "^0.2.0",
+    "cerbere": "^0.2.3",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
